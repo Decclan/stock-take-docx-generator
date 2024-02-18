@@ -7,7 +7,7 @@ Includes mock data, example output and placeholder assets required to run.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Decclan/stock-take-docx-generator/blob/main/example-form.png)
 
 
 ## Detailed Process
